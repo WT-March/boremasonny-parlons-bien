@@ -104,22 +104,22 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <Phone className="w-5 h-5 text-primary mt-0.5 flex-shrink-0" />
                 <div>
-                  <p className="text-white text-sm font-medium">01 23 45 67 89</p>
+                  <p className="text-white text-sm font-medium">+212 5 37 XX XX XX</p>
                   <p className="text-gray-300 text-xs">Lun-Ven : 9h-18h</p>
                 </div>
               </div>
               <div className="flex items-start space-x-3">
                 <Mail className="w-5 h-5 text-primary mt-0.5 flex-shrink-0" />
                 <div>
-                  <p className="text-white text-sm font-medium">contact@centre-borel-maisonny.fr</p>
+                  <p className="text-white text-sm font-medium">contact@centre-borel-maisonny.ma</p>
                   <p className="text-gray-300 text-xs">Réponse sous 24h</p>
                 </div>
               </div>
               <div className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-primary mt-0.5 flex-shrink-0" />
                 <div>
-                  <p className="text-white text-sm font-medium">123 Avenue des Thérapies</p>
-                  <p className="text-gray-300 text-xs">75015 Paris</p>
+                  <p className="text-white text-sm font-medium">Lot El Kasbah, 19 Avenue Mohamed V</p>
+                  <p className="text-gray-300 text-xs">Temara, Maroc</p>
                 </div>
               </div>
             </div>

@@ -4,42 +4,42 @@ import { Mail, Phone, Award, GraduationCap } from 'lucide-react';
 const Team = () => {
   const teamMembers = [
     {
-      name: "Dr. Marie Dubois",
+      name: "Dr. A****** D******",
       role: "Orthophoniste - Directrice",
       specialization: "Troubles du langage oral, Dyslexie",
       experience: "15 ans d'expérience",
-      education: "Master en Orthophonie - Université de Lyon",
-      description: "Spécialisée dans la méthode Borel-Maisonny depuis 2009, Marie accompagne enfants et adultes avec une approche bienveillante et personnalisée.",
+      education: "Master en Orthophonie - Université",
+      description: "Spécialisée dans la méthode Borel-Maisonny depuis 2009, notre directrice accompagne enfants et adultes avec une approche bienveillante et personnalisée.",
       image: "/api/placeholder/300/300",
       certifications: ["Formée Borel-Maisonny", "Certification TDAH"]
     },
     {
-      name: "Sophie Martin",
+      name: "S****** M******",
       role: "Orthophoniste",
       specialization: "Dysgraphie, Troubles de l'écriture",
       experience: "8 ans d'expérience",
-      education: "Master en Sciences du Langage - Sorbonne",
-      description: "Passionnée par les nouvelles technologies éducatives, Sophie intègre les outils numériques dans ses thérapies pour maximiser les résultats.",
+      education: "Master en Sciences du Langage",
+      description: "Passionnée par les nouvelles technologies éducatives, elle intègre les outils numériques dans ses thérapies pour maximiser les résultats.",
       image: "/api/placeholder/300/300",
       certifications: ["Spécialiste numérique", "Formation DYS"]
     },
     {
-      name: "Thomas Leroy",
+      name: "T****** L*****",
       role: "Éducateur spécialisé",
       specialization: "Accompagnement scolaire, Troubles de l'attention",
       experience: "6 ans d'expérience",
       education: "DEES - Institut Régional du Travail Social",
-      description: "Thomas apporte son expertise en pédagogie adaptée et travaille en étroite collaboration avec les familles et les établissements scolaires.",
+      description: "Il apporte son expertise en pédagogie adaptée et travaille en étroite collaboration avec les familles et les établissements scolaires.",
       image: "/api/placeholder/300/300",
       certifications: ["Formation TDAH", "Pédagogie Montessori"]
     },
     {
-      name: "Émilie Rousseau",
+      name: "E****** R*******",
       role: "Psychomotricienne",
       specialization: "Développement psychomoteur, Graphomotricité",
       experience: "10 ans d'expérience",
-      education: "Diplôme d'État en Psychomotricité - ISRP",
-      description: "Émilie complète notre équipe en prenant en charge les aspects moteurs et sensoriels liés aux troubles des apprentissages.",
+      education: "Diplôme d'État en Psychomotricité",
+      description: "Elle complète notre équipe en prenant en charge les aspects moteurs et sensoriels liés aux troubles des apprentissages.",
       image: "/api/placeholder/300/300",
       certifications: ["Intégration sensorielle", "Graphothérapie"]
     }

@@ -60,20 +60,20 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Téléphone",
-      content: "01 23 45 67 89",
+      content: "+212 5 37 XX XX XX",
       description: "Lun-Ven : 9h-18h"
     },
     {
       icon: Mail,
       title: "Email",
-      content: "contact@centre-borel-maisonny.fr",
+      content: "contact@centre-borel-maisonny.ma",
       description: "Réponse sous 24h"
     },
     {
       icon: MapPin,
       title: "Adresse",
-      content: "123 Avenue des Thérapies\n75015 Paris",
-      description: "Métro ligne 12"
+      content: "3ème étage Appt N°6\nLot El Kasbah, 19 Avenue Mohamed V\nTemara",
+      description: "Proche centre-ville"
     },
     {
       icon: Clock,
@@ -143,13 +143,13 @@ const Contact = () => {
                 <div className="flex items-center space-x-3">
                   <Bus className="w-4 h-4 text-secondary-dark" />
                   <span className="text-sm text-muted-foreground">
-                    Métro ligne 12 - Station Mairie d'Issy
+                    Transports en commun disponibles
                   </span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Car className="w-4 h-4 text-secondary-dark" />
                   <span className="text-sm text-muted-foreground">
-                    Parking gratuit disponible
+                    Parking disponible
                   </span>
                 </div>
               </CardContent>
@@ -332,7 +332,7 @@ const Contact = () => {
                   Plan d'accès au Centre Borel Maisonny
                 </p>
                 <p className="text-sm text-muted-foreground mt-1">
-                  123 Avenue des Thérapies, 75015 Paris
+                  Lot El Kasbah, 19 Avenue Mohamed V, Temara
                 </p>
               </div>
             </div>
