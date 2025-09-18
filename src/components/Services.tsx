@@ -3,7 +3,7 @@ import { Button } from '@/components/ui/button';
 import { 
   MessageCircle, 
   BookOpen, 
-  PenTool, 
+  Brain, 
   Users, 
   Clock, 
   ArrowRight,
@@ -16,34 +16,34 @@ const Services = () => {
   const services = [
     {
       icon: MessageCircle,
-      title: "Troubles du langage oral",
-      description: "Retard ou trouble du langage, dysphasie, bégaiement, troubles articulatoires.",
-      age: "Dès 2 ans",
+      title: "Troubles de la parole et du langage oral",
+      description: "Rééducation complète des difficultés de communication orale et troubles développementaux.",
+      age: "Tous âges",
       duration: "45-60min",
       color: "primary"
     },
     {
       icon: BookOpen,
-      title: "Troubles de la lecture",
-      description: "Dyslexie, difficultés d'apprentissage de la lecture, troubles de la compréhension.",
+      title: "Troubles du langage écrit",
+      description: "Accompagnement pour dyslexie, dysorthographie et difficultés de lecture-écriture.",
       age: "Dès 6 ans",
       duration: "45min",
       color: "secondary"
     },
     {
-      icon: PenTool,
-      title: "Troubles de l'écriture",
-      description: "Dysorthographie, dysgraphie, difficultés d'expression écrite.",
-      age: "Dès 7 ans",
-      duration: "45min",
+      icon: Brain,
+      title: "Entraînement cérébral (Neurofeedback)",
+      description: "Optimisation des fonctions cognitives par neurofeedback et stimulation cérébrale.",
+      age: "Tous âges",
+      duration: "60min",
       color: "primary"
     },
     {
       icon: Users,
-      title: "Accompagnement familial",
-      description: "Guidance parentale, conseils pour soutenir l'enfant à la maison.",
+      title: "Troubles neurologiques & déficiences",
+      description: "Prise en charge spécialisée des retards mentaux, trisomie, déficiences auditives et troubles du spectre autistique.",
       age: "Tous âges",
-      duration: "60min",
+      duration: "45-60min",
       color: "secondary"
     }
   ];

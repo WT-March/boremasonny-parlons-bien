@@ -26,8 +26,8 @@ const Header = () => {
               className="w-12 h-12 rounded-full object-cover"
             />
             <div>
-              <h1 className="text-xl font-bold text-foreground">Centre Borel Maisonny</h1>
-              <p className="text-sm text-muted-foreground">Orthophonie & Rééducation</p>
+              <h1 className="text-xl font-bold text-foreground">BOREL MAISONNY</h1>
+              <p className="text-sm text-muted-foreground">Centre d'orthophonie</p>
             </div>
           </div>
 

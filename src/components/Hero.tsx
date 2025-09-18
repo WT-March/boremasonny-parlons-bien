@@ -19,16 +19,15 @@ const Hero = () => {
             <div className="space-y-4">
               <div className="inline-flex items-center px-4 py-2 bg-primary/10 rounded-full text-primary-dark font-medium text-sm">
                 <Heart className="w-4 h-4 mr-2" />
-                Méthode Borel-Maisonny
+                BOREL MAISONNY - Centre d'orthophonie
               </div>
               <h1 className="text-4xl lg:text-5xl xl:text-6xl font-bold text-foreground leading-tight">
-                Accompagner chaque enfant 
-                <span className="text-primary block">vers la réussite</span>
+                VOTRE VOIX, VOS MOTS,
+                <span className="text-primary block">NOTRE MISSION!</span>
               </h1>
               <p className="text-xl text-muted-foreground leading-relaxed">
-                Centre orthophonique spécialisé dans l'accompagnement des troubles du langage, 
-                de la lecture et de l'écriture. Notre approche bienveillante et notre expertise 
-                reconnue aident enfants, adolescents et adultes à retrouver confiance en eux.
+                Centre d'orthophonie spécialisé dans les troubles de la parole, du langage et l'entraînement cérébral par neurofeedback. 
+                Notre expertise reconnue accompagne enfants, adolescents et adultes vers une meilleure communication et un épanouissement cognitif.
               </p>
             </div>
 

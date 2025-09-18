@@ -37,12 +37,12 @@ const About = () => {
                 Notre histoire
               </div>
               <h2 className="text-3xl lg:text-4xl font-bold text-foreground">
-                Un centre dédié à 
-                <span className="text-primary block">votre épanouissement</span>
+                Centre BOREL MAISONNY
+                <span className="text-primary block">Orthophonie & Neurofeedback</span>
               </h2>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Fondé en 2009, le Centre Borel Maisonny est né de la conviction que chaque personne 
-                mérite un accompagnement personnalisé et bienveillant dans sa relation au langage.
+                Le Centre BOREL MAISONNY est spécialisé dans l'accompagnement orthophonique et l'entraînement cérébral par neurofeedback. 
+                Nous offrons une approche innovante combinant les méthodes traditionnelles d'orthophonie avec les dernières avancées en neurosciences.
               </p>
             </div>
 
@@ -50,18 +50,18 @@ const About = () => {
               <div>
                 <h3 className="text-xl font-semibold text-foreground mb-3">Notre mission</h3>
                 <p className="text-muted-foreground">
-                  Accompagner enfants, adolescents et adultes dans la résolution de leurs difficultés 
-                  de communication, lecture, écriture et langage oral, en utilisant des méthodes 
-                  éprouvées et une approche humaine centrée sur le patient.
+                  Accompagner enfants, adolescents et adultes dans la résolution de leurs troubles de la parole, 
+                  du langage oral et écrit, des déficiences auditives et neurologiques. Nous proposons également 
+                  un entraînement cérébral par neurofeedback pour optimiser les capacités cognitives.
                 </p>
               </div>
 
               <div>
                 <h3 className="text-xl font-semibold text-foreground mb-3">Notre approche</h3>
                 <p className="text-muted-foreground">
-                  Nous privilégions un diagnostic précis, un suivi individualisé et une collaboration 
-                  étroite avec les familles, les enseignants et les autres professionnels de santé 
-                  pour garantir les meilleurs résultats.
+                  Nous combinons l'orthophonie traditionnelle avec l'entraînement cérébral par neurofeedback. 
+                  Notre approche personnalisée intègre un diagnostic précis, un suivi individualisé et 
+                  une collaboration étroite avec les familles pour des résultats optimaux.
                 </p>
               </div>
             </div>

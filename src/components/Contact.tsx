@@ -60,13 +60,13 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Téléphone",
-      content: "+212 5 37 XX XX XX",
-      description: "Lun-Ven : 9h-18h"
+      content: "+212 612 622 080",
+      description: "Lun-Ven : 10h-18h"
     },
     {
       icon: Mail,
       title: "Email",
-      content: "contact@centre-borel-maisonny.ma",
+      content: "centreborelmaisonny123@gmail.com",
       description: "Réponse sous 24h"
     },
     {
@@ -78,7 +78,7 @@ const Contact = () => {
     {
       icon: Clock,
       title: "Horaires",
-      content: "Lun-Ven : 9h-18h\nSam : 9h-13h",
+      content: "Lun-Ven : 10h-18h\nSam : 10h-13h",
       description: "Sur rendez-vous uniquement"
     }
   ];
